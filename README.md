@@ -1,6 +1,9 @@
 # PhotoHKU
 Instructables voor een foto stellage
 
+Download de library multiCameraIrControl.h:
+http://sebastian.setz.name/wp-content/uploads/2010/12/multiCameraIrControl_1-91.zip
+
 Code voor de sensor en het infra rood led:
 
 //Analog pin 1 for reading in the analog voltage from the MaxSonar device.
