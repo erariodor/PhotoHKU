@@ -8,7 +8,7 @@ Code voor de sensor en het infra rood led:
 
 //Analog pin 1 for reading in the analog voltage from the MaxSonar device.
 //This variable is a constant because the pin will not change throughout execution of this code.
-#include <multiCameraIrControl.h>
+(#)include <multiCameraIrControl.h> (remove the brackets around the #, Github is acting up)
 const int analogPin = 0;
 unsigned long time;
 
